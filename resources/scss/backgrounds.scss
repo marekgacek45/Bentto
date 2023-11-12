@@ -1,0 +1,20 @@
+.bg{
+    &__offer{
+        &--one{
+            background-image: url('../../public_html/assets/images/bentto_18.webp');
+            background-position: center;
+        }
+        &--two{
+            background-image: url('../../public_html/assets/realisations/mck/realizacja-mck_10.webp');
+        }
+        &--three{
+            background-image: url('../../public_html/assets/images/bentto_38.webp');
+            background-position: center;
+        }
+    }
+}
+
+
+.header-img--2{
+    background-image: url('../../public_html/assets/images/bentto_55.webp');
+}

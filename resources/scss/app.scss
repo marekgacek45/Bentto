@@ -1,0 +1,16 @@
+@use'./hamburger.scss';
+@use'./global.scss';
+@use'./navigation.scss';
+@use'./masonry.scss';
+@use'./logoSlider.scss';
+@use'./realisations.scss';
+@use'./slider.scss';
+@use'./preloader.scss';
+@use'./backgrounds.scss';
+@use'./animations.scss';
+@use'./header.scss';
+@use'./scrollbar.scss';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

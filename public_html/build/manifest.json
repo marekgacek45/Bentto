@@ -1,0 +1,35 @@
+{
+  "public_html/assets/images/bentto_18.webp": {
+    "file": "assets/bentto_18-5ec0e310.webp",
+    "src": "public_html/assets/images/bentto_18.webp"
+  },
+  "public_html/assets/images/bentto_38.webp": {
+    "file": "assets/bentto_38-24e94e35.webp",
+    "src": "public_html/assets/images/bentto_38.webp"
+  },
+  "public_html/assets/images/bentto_55.webp": {
+    "file": "assets/bentto_55-5cf7c3cc.webp",
+    "src": "public_html/assets/images/bentto_55.webp"
+  },
+  "public_html/assets/realisations/mck/realizacja-mck_10.webp": {
+    "file": "assets/realizacja-mck_10-6d002658.webp",
+    "src": "public_html/assets/realisations/mck/realizacja-mck_10.webp"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-19911a50.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-19911a50.css"
+    ],
+    "file": "assets/app-6e96be54.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/scss/app.scss": {
+    "file": "assets/app-e3da0ce5.css",
+    "isEntry": true,
+    "src": "resources/scss/app.scss"
+  }
+}
