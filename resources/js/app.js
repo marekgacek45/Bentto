@@ -8,6 +8,7 @@ import './footerYear'
 import './animationObserver'
 import './preloader'
 import './brandsSlider'
+import './cookiesBar'
 
 
 

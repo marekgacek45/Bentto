@@ -23,13 +23,15 @@
 
 </head>
 
-<body >
+<body class="relative">
 
    <x-preloader/>
     <x-nav.navbar/>
    {{$slot}}
    <x-footer/>
 
+
+   <x-cookie-bar/>
 </body>
 
 </html>
