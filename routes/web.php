@@ -39,6 +39,7 @@ Route::get('/oferta', [PagesController::class,'offer'] )->name('offer');
 Route::get('/aktualności', [PagesController::class,'newses'] )->name('newses');
 Route::get('/galeria', [PagesController::class,'gallery'] )->name('gallery');
 Route::get('/realizacje', [PagesController::class,'realisations'] )->name('realisations');
+Route::get('/polityka-prywatnosci', [PagesController::class,'privacyPolicy'] )->name('privacyPolicy');
 
 
 

@@ -45,4 +45,8 @@ class PagesController extends Controller
     {
         return (view('pages.singleNews', ['news' => $news]));
     }
+    public function privacyPolicy()
+    {
+        return (view('pages.privacy-policy'));
+    }
 }

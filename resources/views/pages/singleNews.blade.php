@@ -1,5 +1,5 @@
 <x-layouts.master>
-    @section('title', $news->title . ' - Gameend')
+    @section('title', $news->title . ' - Bentto')
 
     <div class=" mt-48 lg:mt-32 mx-auto px-4 md:px-12 xl:p-0 mb-8 max-w-screen-lg w-full flex items-center justify-center">
         <img src="{{ asset('storage/' . $news->thumbnail) }}" alt="miniaturka posta o tytule {{ $news->title }}"

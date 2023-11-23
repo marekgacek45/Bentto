@@ -4,7 +4,7 @@
         <p class="text-xs">Ta witryna używa plików cookie, aby zapewnić Ci najlepsze doświadczenie podczas korzystania z naszej platformy.
             Kontynuując przeglądanie naszej witryny, wyrażasz zgodę na korzystanie z plików cookie.</p>
             <div class="flex justify-center items-center gap-4 mt-1">
-                <a href="" class="text-xs underline">Dowiedz się więcej</a>
+                <a href="{{route('privacyPolicy')}}" target="_blank" class="text-xs underline">Dowiedz się więcej</a>
                <button class="bg-primaryColor-400 px-2 py-1 text-xs font-bold text-white hover:bg-primaryColor-600 transition-colors" id="acceptBtn">OK</button>
             </div>
         </div>
